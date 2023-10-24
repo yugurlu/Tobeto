@@ -1,0 +1,15 @@
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Methods/bin/Debug/net7.0/Methods
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Methods/bin/Debug/net7.0/Methods.deps.json
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Methods/bin/Debug/net7.0/Methods.runtimeconfig.json
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Methods/bin/Debug/net7.0/Methods.dll
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Methods/bin/Debug/net7.0/Methods.pdb
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Methods/obj/Debug/net7.0/Methods.csproj.AssemblyReference.cache
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Methods/obj/Debug/net7.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Methods/obj/Debug/net7.0/Methods.AssemblyInfoInputs.cache
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Methods/obj/Debug/net7.0/Methods.AssemblyInfo.cs
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Methods/obj/Debug/net7.0/Methods.csproj.CoreCompileInputs.cache
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Methods/obj/Debug/net7.0/Methods.dll
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Methods/obj/Debug/net7.0/refint/Methods.dll
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Methods/obj/Debug/net7.0/Methods.pdb
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Methods/obj/Debug/net7.0/Methods.genruntimeconfig.cache
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Methods/obj/Debug/net7.0/ref/Methods.dll
