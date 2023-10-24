@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{08211B0F-5622-4728-98A8-9AB4F573CC78}|Default">
+﻿<Properties StartupConfiguration="{3BCE42AB-C6A9-4E08-B252-81DA37BECAA3}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.TypesAndVariables PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" />
@@ -18,7 +18,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Strings FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Strings FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Arrays PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Loops PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
