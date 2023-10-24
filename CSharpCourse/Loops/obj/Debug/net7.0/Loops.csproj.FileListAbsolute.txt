@@ -1,0 +1,15 @@
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Loops/bin/Debug/net7.0/Loops
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Loops/bin/Debug/net7.0/Loops.deps.json
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Loops/bin/Debug/net7.0/Loops.runtimeconfig.json
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Loops/bin/Debug/net7.0/Loops.dll
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Loops/bin/Debug/net7.0/Loops.pdb
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Loops/obj/Debug/net7.0/Loops.csproj.AssemblyReference.cache
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Loops/obj/Debug/net7.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Loops/obj/Debug/net7.0/Loops.AssemblyInfoInputs.cache
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Loops/obj/Debug/net7.0/Loops.AssemblyInfo.cs
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Loops/obj/Debug/net7.0/Loops.csproj.CoreCompileInputs.cache
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Loops/obj/Debug/net7.0/Loops.dll
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Loops/obj/Debug/net7.0/refint/Loops.dll
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Loops/obj/Debug/net7.0/Loops.pdb
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Loops/obj/Debug/net7.0/Loops.genruntimeconfig.cache
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Loops/obj/Debug/net7.0/ref/Loops.dll
