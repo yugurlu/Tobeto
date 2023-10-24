@@ -1,4 +1,25 @@
-﻿<Properties StartupConfiguration="{0452AF8B-F380-4563-85DB-33349F6769BD}|Default">
-  <MonoDevelop.Ide.ItemProperties.TypesAndVariables FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{E94605E6-1B39-4EF7-B8F5-3B9BB5A36BCB}|Default">
+  <MonoDevelop.Ide.ItemProperties.Conditionals FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TypesAndVariables PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Conditionals/Program.cs">
+    <Files>
+      <File FileName="TypesAndVariables/Program.cs" Line="11" Column="23" />
+      <File FileName="Conditionals/Program.cs" Line="7" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpCourse">
+            <Node name="Conditionals" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
