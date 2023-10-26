@@ -1,0 +1,45 @@
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.deps.json
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.runtimeconfig.json
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.dll
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.pdb
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.csproj.AssemblyReference.cache
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.AssemblyInfoInputs.cache
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.AssemblyInfo.cs
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.csproj.CoreCompileInputs.cache
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.dll
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/refint/TypesAndVariables.dll
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.pdb
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.genruntimeconfig.cache
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/ref/TypesAndVariables.dll
+E:/Projeler/Yazilim/yugurlu/Tobeto-main/Tobeto-main/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.exe
+E:/Projeler/Yazilim/yugurlu/Tobeto-main/Tobeto-main/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.deps.json
+E:/Projeler/Yazilim/yugurlu/Tobeto-main/Tobeto-main/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.runtimeconfig.json
+E:/Projeler/Yazilim/yugurlu/Tobeto-main/Tobeto-main/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.dll
+E:/Projeler/Yazilim/yugurlu/Tobeto-main/Tobeto-main/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.pdb
+E:/Projeler/Yazilim/yugurlu/Tobeto-main/Tobeto-main/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.csproj.AssemblyReference.cache
+E:/Projeler/Yazilim/yugurlu/Tobeto-main/Tobeto-main/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+E:/Projeler/Yazilim/yugurlu/Tobeto-main/Tobeto-main/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.AssemblyInfoInputs.cache
+E:/Projeler/Yazilim/yugurlu/Tobeto-main/Tobeto-main/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.AssemblyInfo.cs
+E:/Projeler/Yazilim/yugurlu/Tobeto-main/Tobeto-main/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.csproj.CoreCompileInputs.cache
+E:/Projeler/Yazilim/yugurlu/Tobeto-main/Tobeto-main/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.dll
+E:/Projeler/Yazilim/yugurlu/Tobeto-main/Tobeto-main/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/refint/TypesAndVariables.dll
+E:/Projeler/Yazilim/yugurlu/Tobeto-main/Tobeto-main/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.pdb
+E:/Projeler/Yazilim/yugurlu/Tobeto-main/Tobeto-main/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.genruntimeconfig.cache
+E:/Projeler/Yazilim/yugurlu/Tobeto-main/Tobeto-main/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/ref/TypesAndVariables.dll
+/Users/yusufugurlu/Downloads/Tobeto-main 2/Tobeto-main/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables
+/Users/yusufugurlu/Downloads/Tobeto-main 2/Tobeto-main/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.deps.json
+/Users/yusufugurlu/Downloads/Tobeto-main 2/Tobeto-main/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.runtimeconfig.json
+/Users/yusufugurlu/Downloads/Tobeto-main 2/Tobeto-main/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.dll
+/Users/yusufugurlu/Downloads/Tobeto-main 2/Tobeto-main/CSharpCourse/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.pdb
+/Users/yusufugurlu/Downloads/Tobeto-main 2/Tobeto-main/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.csproj.AssemblyReference.cache
+/Users/yusufugurlu/Downloads/Tobeto-main 2/Tobeto-main/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusufugurlu/Downloads/Tobeto-main 2/Tobeto-main/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.AssemblyInfoInputs.cache
+/Users/yusufugurlu/Downloads/Tobeto-main 2/Tobeto-main/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.AssemblyInfo.cs
+/Users/yusufugurlu/Downloads/Tobeto-main 2/Tobeto-main/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.csproj.CoreCompileInputs.cache
+/Users/yusufugurlu/Downloads/Tobeto-main 2/Tobeto-main/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.dll
+/Users/yusufugurlu/Downloads/Tobeto-main 2/Tobeto-main/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/refint/TypesAndVariables.dll
+/Users/yusufugurlu/Downloads/Tobeto-main 2/Tobeto-main/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.pdb
+/Users/yusufugurlu/Downloads/Tobeto-main 2/Tobeto-main/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.genruntimeconfig.cache
+/Users/yusufugurlu/Downloads/Tobeto-main 2/Tobeto-main/CSharpCourse/TypesAndVariables/obj/Debug/net7.0/ref/TypesAndVariables.dll
