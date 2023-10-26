@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="RecapDemo1.app/Contents/MacOS/RecapDemo1">
+      <BCSymbolMapName>RecapDemo1.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>RecapDemo1.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/RecapDemo1/obj/Debug/net7.0-macos/osx-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>RecapDemo1.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/RecapDemo1</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

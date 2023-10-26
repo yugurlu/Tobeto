@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NGD/b8aYZEft1m9myOl7LH8g0wKHtjOWTNUmmCNFte24q8qi5X4I/y0I4amiRZL7yMWspF0vm/txv7UkruvtKw==",
+  "success": true,
+  "projectFilePath": "/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/RecapDemo1/RecapDemo1.csproj",
+  "expectedPackageFiles": [
+    "/Users/yusufugurlu/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/7.0.13/microsoft.aspnetcore.app.runtime.osx-x64.7.0.13.nupkg.sha512",
+    "/Users/yusufugurlu/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/7.0.13/microsoft.netcore.app.runtime.osx-x64.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
