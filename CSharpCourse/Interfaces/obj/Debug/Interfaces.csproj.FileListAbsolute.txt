@@ -1,0 +1,8 @@
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\Interfaces\obj\Debug\Interfaces.csproj.SuggestedBindingRedirects.cache
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\Interfaces\bin\Debug\Interfaces.exe.config
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\Interfaces\bin\Debug\Interfaces.exe
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\Interfaces\bin\Debug\Interfaces.pdb
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\Interfaces\obj\Debug\Interfaces.exe
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\Interfaces\obj\Debug\Interfaces.pdb
