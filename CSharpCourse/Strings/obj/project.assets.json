@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yusufugurlu/Downloads/Tobeto-main 2/Tobeto-main/CSharpCourse/Strings/Strings.csproj",
+      "projectUniqueName": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Strings/Strings.csproj",
       "projectName": "Strings",
-      "projectPath": "/Users/yusufugurlu/Downloads/Tobeto-main 2/Tobeto-main/CSharpCourse/Strings/Strings.csproj",
+      "projectPath": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Strings/Strings.csproj",
       "packagesPath": "/Users/yusufugurlu/.nuget/packages/",
-      "outputPath": "/Users/yusufugurlu/Downloads/Tobeto-main 2/Tobeto-main/CSharpCourse/Strings/obj/",
+      "outputPath": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Strings/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yusufugurlu/.nuget/NuGet/NuGet.Config"

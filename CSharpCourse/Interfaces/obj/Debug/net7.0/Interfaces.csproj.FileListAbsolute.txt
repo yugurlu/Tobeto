@@ -1,0 +1,5 @@
+/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Interfaces/obj/Debug/net7.0/Interfaces.csproj.AssemblyReference.cache
+/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Interfaces/obj/Debug/net7.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Interfaces/obj/Debug/net7.0/Interfaces.AssemblyInfoInputs.cache
+/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Interfaces/obj/Debug/net7.0/Interfaces.AssemblyInfo.cs
+/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Interfaces/obj/Debug/net7.0/Interfaces.csproj.CoreCompileInputs.cache
