@@ -1,8 +1,7 @@
-﻿<Properties StartupConfiguration="{EE5B3E45-8817-4DC7-9FF5-B6155A65B5C0}|Default">
+﻿<Properties StartupConfiguration="{0452AF8B-F380-4563-85DB-33349F6769BD}|Default">
   <MonoDevelop.Ide.ItemProperties.TypesAndVariables PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.RecapDemo1 PreferredExecutionTarget="MyMacID" FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Loops PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Classes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" />
