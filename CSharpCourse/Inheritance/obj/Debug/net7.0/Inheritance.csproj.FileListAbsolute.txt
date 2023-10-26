@@ -1,0 +1,15 @@
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\Inheritance\bin\Debug\net7.0\Inheritance.exe
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\Inheritance\bin\Debug\net7.0\Inheritance.deps.json
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\Inheritance\bin\Debug\net7.0\Inheritance.runtimeconfig.json
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\Inheritance\bin\Debug\net7.0\Inheritance.dll
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\Inheritance\bin\Debug\net7.0\Inheritance.pdb
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\Inheritance\obj\Debug\net7.0\Inheritance.csproj.AssemblyReference.cache
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\Inheritance\obj\Debug\net7.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfoInputs.cache
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfo.cs
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\Inheritance\obj\Debug\net7.0\Inheritance.csproj.CoreCompileInputs.cache
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\Inheritance\obj\Debug\net7.0\Inheritance.dll
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\Inheritance\obj\Debug\net7.0\refint\Inheritance.dll
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\Inheritance\obj\Debug\net7.0\Inheritance.pdb
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\Inheritance\obj\Debug\net7.0\Inheritance.genruntimeconfig.cache
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\Inheritance\obj\Debug\net7.0\ref\Inheritance.dll
