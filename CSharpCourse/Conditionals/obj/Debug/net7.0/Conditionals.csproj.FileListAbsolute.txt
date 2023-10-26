@@ -1,0 +1,15 @@
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Conditionals/bin/Debug/net7.0/Conditionals
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Conditionals/bin/Debug/net7.0/Conditionals.deps.json
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Conditionals/bin/Debug/net7.0/Conditionals.runtimeconfig.json
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Conditionals/bin/Debug/net7.0/Conditionals.dll
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Conditionals/bin/Debug/net7.0/Conditionals.pdb
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Conditionals/obj/Debug/net7.0/Conditionals.csproj.AssemblyReference.cache
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Conditionals/obj/Debug/net7.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Conditionals/obj/Debug/net7.0/Conditionals.AssemblyInfoInputs.cache
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Conditionals/obj/Debug/net7.0/Conditionals.AssemblyInfo.cs
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Conditionals/obj/Debug/net7.0/Conditionals.csproj.CoreCompileInputs.cache
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Conditionals/obj/Debug/net7.0/Conditionals.dll
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Conditionals/obj/Debug/net7.0/refint/Conditionals.dll
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Conditionals/obj/Debug/net7.0/Conditionals.pdb
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Conditionals/obj/Debug/net7.0/Conditionals.genruntimeconfig.cache
+/Users/yusufugurlu/Desktop/Tobeto/CSharpCourse/Conditionals/obj/Debug/net7.0/ref/Conditionals.dll
