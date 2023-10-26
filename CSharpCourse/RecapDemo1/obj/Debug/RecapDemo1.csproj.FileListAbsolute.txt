@@ -1,0 +1,11 @@
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.exe
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.pdb
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.AssemblyReference.cache
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.SuggestedBindingRedirects.cache
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.cache
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.exe
+E:\Projeler\Yazilim\yugurlu\Tobeto-main\Tobeto-main\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.pdb
