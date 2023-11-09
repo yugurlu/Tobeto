@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Inheritance/Inheritance.csproj",
+      "projectUniqueName": "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/Inheritance/Inheritance.csproj",
       "projectName": "Inheritance",
-      "projectPath": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Inheritance/Inheritance.csproj",
+      "projectPath": "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/Inheritance/Inheritance.csproj",
       "packagesPath": "/Users/yusufugurlu/.nuget/packages/",
-      "outputPath": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Inheritance/obj/",
+      "outputPath": "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/Inheritance/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yusufugurlu/.nuget/NuGet/NuGet.Config"

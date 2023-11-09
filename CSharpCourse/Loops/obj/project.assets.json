@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Loops/Loops.csproj",
+      "projectUniqueName": "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/Loops/Loops.csproj",
       "projectName": "Loops",
-      "projectPath": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Loops/Loops.csproj",
+      "projectPath": "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/Loops/Loops.csproj",
       "packagesPath": "/Users/yusufugurlu/.nuget/packages/",
-      "outputPath": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Loops/obj/",
+      "outputPath": "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/Loops/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yusufugurlu/.nuget/NuGet/NuGet.Config"

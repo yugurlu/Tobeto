@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Methods/Methods.csproj",
+      "projectUniqueName": "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/Methods/Methods.csproj",
       "projectName": "Methods",
-      "projectPath": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Methods/Methods.csproj",
+      "projectPath": "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/Methods/Methods.csproj",
       "packagesPath": "/Users/yusufugurlu/.nuget/packages/",
-      "outputPath": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Methods/obj/",
+      "outputPath": "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/Methods/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yusufugurlu/.nuget/NuGet/NuGet.Config"

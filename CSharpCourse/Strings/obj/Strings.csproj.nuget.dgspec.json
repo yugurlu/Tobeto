@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Strings/Strings.csproj": {}
+    "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/Strings/Strings.csproj": {}
   },
   "projects": {
-    "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Strings/Strings.csproj": {
+    "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/Strings/Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Strings/Strings.csproj",
+        "projectUniqueName": "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/Strings/Strings.csproj",
         "projectName": "Strings",
-        "projectPath": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Strings/Strings.csproj",
+        "projectPath": "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/Strings/Strings.csproj",
         "packagesPath": "/Users/yusufugurlu/.nuget/packages/",
-        "outputPath": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Strings/obj/",
+        "outputPath": "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/Strings/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yusufugurlu/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Conditionals/Conditionals.csproj": {}
+    "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/Conditionals/Conditionals.csproj": {}
   },
   "projects": {
-    "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Conditionals/Conditionals.csproj": {
+    "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/Conditionals/Conditionals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Conditionals/Conditionals.csproj",
+        "projectUniqueName": "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/Conditionals/Conditionals.csproj",
         "projectName": "Conditionals",
-        "projectPath": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Conditionals/Conditionals.csproj",
+        "projectPath": "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/Conditionals/Conditionals.csproj",
         "packagesPath": "/Users/yusufugurlu/.nuget/packages/",
-        "outputPath": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Conditionals/obj/",
+        "outputPath": "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/Conditionals/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yusufugurlu/.nuget/NuGet/NuGet.Config"

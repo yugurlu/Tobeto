@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/TypesAndVariables/TypesAndVariables.csproj": {}
+    "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/TypesAndVariables/TypesAndVariables.csproj": {}
   },
   "projects": {
-    "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/TypesAndVariables/TypesAndVariables.csproj": {
+    "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/TypesAndVariables/TypesAndVariables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/TypesAndVariables/TypesAndVariables.csproj",
+        "projectUniqueName": "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/TypesAndVariables/TypesAndVariables.csproj",
         "projectName": "TypesAndVariables",
-        "projectPath": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/TypesAndVariables/TypesAndVariables.csproj",
+        "projectPath": "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/TypesAndVariables/TypesAndVariables.csproj",
         "packagesPath": "/Users/yusufugurlu/.nuget/packages/",
-        "outputPath": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/TypesAndVariables/obj/",
+        "outputPath": "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/TypesAndVariables/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yusufugurlu/.nuget/NuGet/NuGet.Config"

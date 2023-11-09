@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/InterfacesDemo/InterfacesDemo.csproj": {}
+    "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/InterfacesDemo/InterfacesDemo.csproj": {}
   },
   "projects": {
-    "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/InterfacesDemo/InterfacesDemo.csproj": {
+    "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/InterfacesDemo/InterfacesDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/InterfacesDemo/InterfacesDemo.csproj",
+        "projectUniqueName": "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/InterfacesDemo/InterfacesDemo.csproj",
         "projectName": "InterfacesDemo",
-        "projectPath": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/InterfacesDemo/InterfacesDemo.csproj",
+        "projectPath": "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/InterfacesDemo/InterfacesDemo.csproj",
         "packagesPath": "/Users/yusufugurlu/.nuget/packages/",
-        "outputPath": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/InterfacesDemo/obj/",
+        "outputPath": "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/InterfacesDemo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yusufugurlu/.nuget/NuGet/NuGet.Config"

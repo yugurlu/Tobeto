@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Arrays/Arrays.csproj",
+      "projectUniqueName": "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/Arrays/Arrays.csproj",
       "projectName": "Arrays",
-      "projectPath": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Arrays/Arrays.csproj",
+      "projectPath": "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/Arrays/Arrays.csproj",
       "packagesPath": "/Users/yusufugurlu/.nuget/packages/",
-      "outputPath": "/Users/yusufugurlu/Desktop/tobeto-son/CSharpCourse/Arrays/obj/",
+      "outputPath": "/Users/yusufugurlu/Desktop/desk/Tobeto/CSharpCourse/Arrays/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yusufugurlu/.nuget/NuGet/NuGet.Config"
