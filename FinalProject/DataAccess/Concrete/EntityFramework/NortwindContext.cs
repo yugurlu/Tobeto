@@ -8,7 +8,7 @@ namespace DataAccess.Concrete.EntityFramework
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=172.17.0.2,1433;Database=Northwind;User Id=SA;Password=reallyStrongPwd123");
+            optionsBuilder.UseSqlServer(@"Server={server};Database={database};User Id={user};Password={password};TrustServerCertificate=True"); //
         }
 
         public DbSet<Product> Products { get; set; }
