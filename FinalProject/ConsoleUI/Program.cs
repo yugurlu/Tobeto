@@ -7,9 +7,9 @@ static void ProductTest()
 {
     ProductManager productManager = new ProductManager(new EfProductDal());
 
-    foreach (var product in productManager.GetAllByCategoryId(2))
+    foreach (var product in productManager.GetProductDetails())
     {
-        Console.WriteLine(product.ProductName);
+        Console.WriteLine(product.ProductName + " - "+ product.CategoryName);
     }
 }
 
@@ -22,4 +22,4 @@ static void CategoryTest()
     }
 }
 
-CategoryTest();
+ProductTest();
