@@ -1,9 +1,10 @@
 ﻿using System;
+using Core.DataAccess;
 using Entities.Concrete;
 
 namespace DataAccess.Abstract
 {
-	public interface ICustomerDal : IEntityRepesitory<Customer>
+	public interface ICustomerDal : IEntityRepository<Customer>
 	{
 	}
 }

@@ -8,12 +8,13 @@ namespace DataAccess.Concrete.EntityFramework
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server={server};Database={database};User Id={user};Password={password};TrustServerCertificate=True"); //
+            optionsBuilder.UseSqlServer(@"Server=localhost,1433;Database=Northwind;User Id=SA;Password=reallyStrongPwd123;TrustServerCertificate =True"); //
         }
 
         public DbSet<Product> Products { get; set; }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Customer> Customers { get; set; }
+        public DbSet<Order> Orders { get; set; }
     }
 }
 

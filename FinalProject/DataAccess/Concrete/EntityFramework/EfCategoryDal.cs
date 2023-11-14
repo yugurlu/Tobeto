@@ -6,8 +6,8 @@ using Entities.Concrete;
 
 namespace DataAccess.Concrete.EntityFramework
 {
-    public class  EfProductDal : EfEntityRepositoryBase<Product,NortwindContext>, IProductDal
-    { 
+    public class EfCategoryDal : EfEntityRepositoryBase<Category, NortwindContext>, ICategoryDal
+    {
     }
 }
 
