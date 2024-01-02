@@ -1,11 +1,15 @@
 import axios from "axios"
-export default class ProductService{
+export default class ProductService {
 
-    getProducts(){
+    addProduct(product) {
+        return axios.post("https://localhost:7209/api/Products/add", {...product})
+    }
+
+    getProducts() {
         return axios.get("https://localhost:7209/api/Products/getall")
     }
 
-    getByCategoryId(id){
+    getByCategoryId(id) {
         return axios.get("https://localhost:7209/api/Products/getbyid?id=" + id)
     }
 } 
