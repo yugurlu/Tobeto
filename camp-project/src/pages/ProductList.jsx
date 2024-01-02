@@ -1,36 +1,55 @@
 import React, { useState, useEffect } from "react";
-import { Icon, Label, Menu, Table } from "semantic-ui-react";
+import { Button, Icon, Label, Menu, Table, TableCell } from "semantic-ui-react";
 import ProductService from "../services/productService";
 import { Link, NavLink } from "react-router-dom";
+import { useDispatch, useSelector } from "react-redux";
+import { addToCart } from "../store/actions/cartActions";
+import { toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.min.css";
 
 export default function ProductList() {
-  const [categories, setbrands] = useState([]);
+  const [products, setProducts] = useState([]);
+
+  const dispatch = useDispatch();
 
   useEffect(() => {
     let productService = new ProductService();
     productService.getProducts().then((result) => {
-      setbrands(result.data.data);
-      console.log(categories);
+      setProducts(result.data.data);
+      console.log(products[0]);
     }, []);
-  });
+  }, []);
+
+  const handleAddToCart = (product) => {
+    dispatch(addToCart(product));
+    toast.dark(`${product.productName} Sepete Eklendi!`);
+  };
 
   return (
     <div>
       <Table celled>
         <Table.Header>
           <Table.Row>
-            <Table.HeaderCell>Id</Table.HeaderCell>
             <Table.HeaderCell>Name</Table.HeaderCell>
+            <Table.HeaderCell>Price</Table.HeaderCell>
+            <Table.HeaderCell></Table.HeaderCell>
           </Table.Row>
         </Table.Header>
 
         <Table.Body>
-          {categories.map((category) => (
-            <Table.Row key={category.id}>
+          {products.map((product) => (
+            <Table.Row key={product.productId}>
               <Table.Cell>
-                <Link to={`/Categories/${category.id}`}>{category.id}</Link>
+                <Link to={`/Products/${product.productName}`}>
+                  {product.productName}
+                </Link>
               </Table.Cell>
-              <Table.Cell>{category.name}</Table.Cell>
+              <Table.Cell>{product.unitPrice}</Table.Cell>
+              <Table.Cell>
+                <Button onClick={() => handleAddToCart(product)}>
+                  Sepete Ekle
+                </Button>
+              </Table.Cell>
             </Table.Row>
           ))}
         </Table.Body>
@@ -44,8 +63,6 @@ export default function ProductList() {
                 </Menu.Item>
                 <Menu.Item as="a">1</Menu.Item>
                 <Menu.Item as="a">2</Menu.Item>
-                <Menu.Item as="a">3</Menu.Item>
-                <Menu.Item as="a">4</Menu.Item>
                 <Menu.Item as="a" icon>
                   <Icon name="chevron right" />
                 </Menu.Item>
